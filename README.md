@@ -18,4 +18,4 @@ This Java program implements a two-player Tic Tac Toe game using Swing for the g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-swing.git
+   git clone https://github.com/its-anuskapalit/TicTacToe
